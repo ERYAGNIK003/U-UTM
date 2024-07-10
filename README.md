@@ -1,5 +1,5 @@
-# U-UTM
-A cyber-Physical System for Road Traffic Monitoring using UAVs. It uses several methods to automate the traffic monitoring as follow:
+# U-UTM (UAV-based Urban Traffic Monitoring)
+A cyber-physical system for road traffic monitoring using UAVs. It uses several methods to automate the traffic monitoring as follow:
 GSD mapping, Zone detection, Post-processing on broken tracks, and Computation time.
 
 Dataset Description:
