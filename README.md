@@ -1,9 +1,6 @@
 # U-UTM
-A cyber-Physical System for Road Traffic Monitoring using UAVs. It has several components as follow:
-GSD mapping
-Zone detection
-Post-processing on broken tracks
-Computation time
+A cyber-Physical System for Road Traffic Monitoring using UAVs. It uses several methods to automate the traffic monitoring as follow:
+GSD mapping, Zone detection, Post-processing on broken tracks, and Computation time.
 
 Dataset Description:
 Videos are available on following link [GSD mapping for UAV-based video analytics,Traffi density and Computation time]: www.youtube.com/@YagnikBhavsar.
